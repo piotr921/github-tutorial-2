@@ -1,0 +1,8 @@
+It is addede file number 3:
+
+
+It has inside:
+
+Three knigts
+Three queens
+Three dragons

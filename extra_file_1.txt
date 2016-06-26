@@ -1,0 +1,7 @@
+This is added file number 1
+
+
+inside is:
+One sun
+One moon
+One Earth
